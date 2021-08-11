@@ -1,5 +1,5 @@
 
-//       Task 2
+//       Task 3
 
 function Human(name, age, dep){
     this.name = name;
